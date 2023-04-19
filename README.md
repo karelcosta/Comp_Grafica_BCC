@@ -1,1 +1,1 @@
-# Computa-o_Grafica_BCC
+# Comp_Grafica_BCC
